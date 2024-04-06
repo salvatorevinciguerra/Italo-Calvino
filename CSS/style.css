@@ -1,0 +1,60 @@
+body {
+   background-color: seagreen;
+   color: black;
+   margin: 0;
+   font-family: "Sulphur Point", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  };
+
+h1 p {
+    margin: 0;
+    padding: 0;
+}
+
+.Uno{
+    margin: auto;
+    text-align: center;
+}
+
+.Uno h1{
+    font-size: 128px;
+}
+
+.primo_testo{
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+}
+
+.prima_immagine{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+}
+
+.Due{
+    display: flex;
+}
+
+.secondo_testo{
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+}
+
+.seconda_immagine{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+}
+
+.Tre{
+    display: flex;
+}
+
+.terzo_testo{
+margin: auto;
+text-align: center;
+padding: 50px;
+}
